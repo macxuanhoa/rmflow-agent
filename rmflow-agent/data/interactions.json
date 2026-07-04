@@ -1,0 +1,62 @@
+[
+  {
+    "interaction_id": "I001",
+    "customer_id": "C001",
+    "rm_id": "RM001",
+    "date": "2026-07-02",
+    "channel": "phone",
+    "interaction_type": "deposit_follow_up",
+    "rm_note": "Customer asked about a 12-month savings option for idle balance after a recent maturity.",
+    "outcome": "interested_follow_up_needed",
+    "sentiment": "positive",
+    "next_follow_up_date": "2026-07-04"
+  },
+  {
+    "interaction_id": "I002",
+    "customer_id": "C001",
+    "rm_id": "RM001",
+    "date": "2026-06-20",
+    "channel": "branch_meeting",
+    "interaction_type": "portfolio_review",
+    "rm_note": "Customer prefers stable products and short, direct follow-up calls.",
+    "outcome": "profile_confirmed",
+    "sentiment": "neutral",
+    "next_follow_up_date": "2026-07-18"
+  },
+  {
+    "interaction_id": "I003",
+    "customer_id": "C002",
+    "rm_id": "RM001",
+    "date": "2026-07-03",
+    "channel": "phone",
+    "interaction_type": "loan_follow_up",
+    "rm_note": "Customer asked whether a repayment review could support a top-up plan for home renovation.",
+    "outcome": "needs_clarification",
+    "sentiment": "neutral",
+    "next_follow_up_date": "2026-07-05"
+  },
+  {
+    "interaction_id": "I004",
+    "customer_id": "C003",
+    "rm_id": "RM001",
+    "date": "2026-07-01",
+    "channel": "email",
+    "interaction_type": "campaign_interest",
+    "rm_note": "Customer responded positively to premium balance growth positioning and asked for a short follow-up.",
+    "outcome": "campaign_interest_confirmed",
+    "sentiment": "positive",
+    "next_follow_up_date": "2026-07-06"
+  },
+  {
+    "interaction_id": "I005",
+    "customer_id": "C003",
+    "rm_id": "RM001",
+    "date": "2026-06-28",
+    "channel": "branch_meeting",
+    "interaction_type": "relationship_review",
+    "rm_note": "Customer values concise written summaries and premium service framing.",
+    "outcome": "preference_recorded",
+    "sentiment": "positive",
+    "next_follow_up_date": "2026-07-15"
+  }
+]

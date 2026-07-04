@@ -1,0 +1,47 @@
+[
+  {
+    "script_id": "SCP001",
+    "channel": "call",
+    "purpose": "deposit_follow_up_call",
+    "product_category": "term_deposit",
+    "opening": "Em chào anh/chị Nguyễn A, em gọi lại để tiếp nối trao đổi về phương án tiết kiệm kỳ hạn 12 tháng phù hợp với khoản tiền nhàn rỗi của anh/chị.",
+    "questions": [
+      "Hiện anh/chị đang ưu tiên sự ổn định hay tính linh hoạt khi chọn kỳ hạn?",
+      "Anh/chị có muốn em chuẩn bị một tóm tắt ngắn trước khi mình chốt lịch trao đổi tiếp không?"
+    ],
+    "objection_handling": [
+      "Nếu anh/chị chưa muốn quyết định ngay, em có thể gửi tóm tắt ngắn bằng email để anh/chị tham khảo trước."
+    ],
+    "closing": "Nếu thuận tiện, em xin phép chốt một bước tiếp theo ngắn để hỗ trợ anh/chị đầy đủ hơn."
+  },
+  {
+    "script_id": "SCP002",
+    "channel": "call",
+    "purpose": "loan_follow_up_call",
+    "product_category": "secured_loan",
+    "opening": "Em chào anh/chị Trần B, em gọi lại để hỗ trợ anh/chị rà soát nhu cầu vay bổ sung và kế hoạch trả nợ phù hợp.",
+    "questions": [
+      "Hiện phần anh/chị muốn trao đổi thêm là về hạn mức hay về cách sắp xếp lịch trả nợ?",
+      "Anh/chị có muốn em chuẩn bị trước một danh sách điều kiện cần kiểm tra không?"
+    ],
+    "objection_handling": [
+      "Nếu anh/chị chưa sẵn sàng trao đổi chi tiết, em có thể gửi tóm tắt ngắn để mình xem lại sau."
+    ],
+    "closing": "Em xin phép giữ liên hệ ngắn gọn và chỉ tiếp tục khi anh/chị thấy phù hợp."
+  },
+  {
+    "script_id": "SCP003",
+    "channel": "call",
+    "purpose": "campaign_intro_call",
+    "product_category": "wealth_bundle",
+    "opening": "Em chào anh/chị Lê C, em gọi để trao đổi ngắn về một định hướng ưu tiên phù hợp với nhu cầu tăng trưởng số dư và dịch vụ quan hệ khách hàng của anh/chị.",
+    "questions": [
+      "Anh/chị hiện quan tâm nhiều hơn đến tối ưu trải nghiệm dịch vụ hay kế hoạch duy trì số dư trung hạn?",
+      "Nếu phù hợp, em có thể gửi thêm một tóm tắt ngắn sau cuộc gọi."
+    ],
+    "objection_handling": [
+      "Nếu anh/chị muốn xem trước thông tin, em sẽ gửi một bản tóm tắt ngắn thay vì trao đổi sâu ngay trong cuộc gọi này."
+    ],
+    "closing": "Nếu anh/chị đồng ý, em sẽ chuẩn bị bước tiếp theo thật ngắn gọn và rõ ràng."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "opportunity_id": "O001",
+    "customer_id": "C001",
+    "rm_id": "RM001",
+    "product_category": "term_deposit",
+    "product_name": "Tiết kiệm 12 tháng linh hoạt Demo",
+    "expected_value": 700000000,
+    "probability_score": 0.82,
+    "reason": "Customer has idle balance and recently asked about a 12-month option.",
+    "next_action": "Call to confirm savings tenor and draft follow-up summary.",
+    "status": "open"
+  },
+  {
+    "opportunity_id": "O002",
+    "customer_id": "C002",
+    "rm_id": "RM001",
+    "product_category": "secured_loan",
+    "product_name": "Khoản vay bổ sung tài sản đảm bảo Demo",
+    "expected_value": 250000000,
+    "probability_score": 0.68,
+    "reason": "Customer is open to a repayment review and asked about top-up feasibility.",
+    "next_action": "Review repayment context and schedule a clarification call.",
+    "status": "open"
+  },
+  {
+    "opportunity_id": "O003",
+    "customer_id": "C003",
+    "rm_id": "RM001",
+    "product_category": "wealth_bundle",
+    "product_name": "Gói tăng trưởng số dư ưu tiên Demo",
+    "expected_value": 350000000,
+    "probability_score": 0.74,
+    "reason": "Customer has campaign-fit behavior and interest in premium relationship benefits.",
+    "next_action": "Recommend campaign-aligned balance growth conversation.",
+    "status": "open"
+  }
+]

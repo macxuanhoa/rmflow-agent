@@ -1,0 +1,41 @@
+[
+  {
+    "template_id": "T001",
+    "channel": "email",
+    "purpose": "deposit_follow_up_email",
+    "product_category": "term_deposit",
+    "tone": "professional_vietnamese_banking",
+    "required_fields": [
+      "customer_name",
+      "product_name",
+      "next_step"
+    ],
+    "template_text": "Kính gửi {{customer_name}}, em xin phép gửi lại phần trao đổi ngắn về {{product_name}}. Nếu anh/chị thuận tiện, em đề xuất một cuộc gọi ngắn để xác nhận nhu cầu và bước tiếp theo: {{next_step}}."
+  },
+  {
+    "template_id": "T002",
+    "channel": "email",
+    "purpose": "loan_follow_up_email",
+    "product_category": "secured_loan",
+    "tone": "professional_vietnamese_banking",
+    "required_fields": [
+      "customer_name",
+      "product_name",
+      "next_step"
+    ],
+    "template_text": "Kính gửi {{customer_name}}, em xin tóm tắt nội dung trao đổi gần nhất về {{product_name}}. Nếu anh/chị đồng ý, em sẽ sắp xếp một cuộc gọi ngắn để rà soát điều kiện và bước tiếp theo: {{next_step}}."
+  },
+  {
+    "template_id": "T003",
+    "channel": "email",
+    "purpose": "campaign_follow_up_email",
+    "product_category": "wealth_bundle",
+    "tone": "professional_vietnamese_banking",
+    "required_fields": [
+      "customer_name",
+      "campaign_name",
+      "next_step"
+    ],
+    "template_text": "Kính gửi {{customer_name}}, em xin gửi thông tin tóm tắt về định hướng phù hợp với {{campaign_name}} trong khuôn khổ demo nội bộ. Nếu anh/chị thấy phù hợp, em đề xuất một trao đổi ngắn để thống nhất bước tiếp theo: {{next_step}}."
+  }
+]

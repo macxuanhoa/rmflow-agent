@@ -1,0 +1,41 @@
+[
+  {
+    "campaign_id": "CAM001",
+    "campaign_name": "Summer Savings Boost Demo",
+    "target_segment": "affluent",
+    "product_focus": "term_deposit",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "eligibility_rule": "Affluent customers with idle balance and recent deposit interest.",
+    "matching_customer_ids": [
+      "C001"
+    ],
+    "pricing_note": "Fictional demo campaign terms. Not a real Bank A offer."
+  },
+  {
+    "campaign_id": "CAM002",
+    "campaign_name": "Home Loan Check-in Demo",
+    "target_segment": "mass_affluent",
+    "product_focus": "secured_loan",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-15",
+    "eligibility_rule": "Existing loan customers eligible for repayment review and potential top-up assessment.",
+    "matching_customer_ids": [
+      "C002"
+    ],
+    "pricing_note": "Fictional demo campaign terms. Not a real Bank A offer."
+  },
+  {
+    "campaign_id": "CAM003",
+    "campaign_name": "Privilege Balance Growth Demo",
+    "target_segment": "affluent",
+    "product_focus": "wealth_bundle",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-15",
+    "eligibility_rule": "Affluent customers with premium service interest and balance growth potential.",
+    "matching_customer_ids": [
+      "C003"
+    ],
+    "pricing_note": "Fictional demo campaign terms. Not a real Bank A offer."
+  }
+]

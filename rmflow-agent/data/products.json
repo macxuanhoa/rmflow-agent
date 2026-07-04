@@ -1,0 +1,29 @@
+[
+  {
+    "product_id": "P001",
+    "product_name": "Tiết kiệm 12 tháng linh hoạt Demo",
+    "product_category": "term_deposit",
+    "eligibility": "Suitable for conservative affluent customers with idle funds and stable planning needs.",
+    "rate_or_fee": "Fictional demo term band A. Not a real Bank A rate.",
+    "suitable_profile": "Conservative customers seeking predictable savings planning.",
+    "risk_notes": "Do not present any pricing term as a real public rate."
+  },
+  {
+    "product_id": "P002",
+    "product_name": "Khoản vay bổ sung tài sản đảm bảo Demo",
+    "product_category": "secured_loan",
+    "eligibility": "Suitable for existing secured loan customers who pass internal repayment review.",
+    "rate_or_fee": "Fictional demo fee and pricing note. Not a real Bank A rate.",
+    "suitable_profile": "Customers needing a structured discussion on top-up borrowing feasibility.",
+    "risk_notes": "Requires eligibility confirmation before recommendation."
+  },
+  {
+    "product_id": "P003",
+    "product_name": "Gói tăng trưởng số dư ưu tiên Demo",
+    "product_category": "wealth_bundle",
+    "eligibility": "Suitable for affluent customers with premium service interest and medium-term balance growth plans.",
+    "rate_or_fee": "Fictional demo benefit note. Not a real Bank A offer.",
+    "suitable_profile": "Customers interested in premium relationship positioning and structured planning.",
+    "risk_notes": "Do not use if campaign eligibility evidence is missing."
+  }
+]

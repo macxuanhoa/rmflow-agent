@@ -1,0 +1,75 @@
+[
+  {
+    "customer_id": "C001",
+    "rm_id": "RM001",
+    "anonymized_name": "KH Nguyễn A",
+    "segment": "affluent",
+    "age_range": "40-49",
+    "city": "Ho Chi Minh City",
+    "products_owned": [
+      "CASA",
+      "term_deposit_matured"
+    ],
+    "balance_range": "700M-1B VNĐ",
+    "risk_profile": "conservative",
+    "preferred_channel": "phone",
+    "relationship_manager_id": "RM001",
+    "priority_tags": [
+      "high_value_savings_follow_up",
+      "idle_balance",
+      "due_today"
+    ],
+    "campaign_candidate_ids": [
+      "CAM001"
+    ],
+    "notes": "Demo customer only. Interested in renewing idle funds into a longer tenor savings product."
+  },
+  {
+    "customer_id": "C002",
+    "rm_id": "RM001",
+    "anonymized_name": "KH Trần B",
+    "segment": "mass_affluent",
+    "age_range": "30-39",
+    "city": "Ha Noi",
+    "products_owned": [
+      "payroll_account",
+      "home_loan_existing"
+    ],
+    "balance_range": "150M-300M VNĐ",
+    "risk_profile": "balanced",
+    "preferred_channel": "phone",
+    "relationship_manager_id": "RM001",
+    "priority_tags": [
+      "loan_follow_up",
+      "repayment_review"
+    ],
+    "campaign_candidate_ids": [
+      "CAM002"
+    ],
+    "notes": "Demo customer only. Requested clarification on repayment planning and possible top-up loan options."
+  },
+  {
+    "customer_id": "C003",
+    "rm_id": "RM001",
+    "anonymized_name": "KH Lê C",
+    "segment": "affluent",
+    "age_range": "35-44",
+    "city": "Da Nang",
+    "products_owned": [
+      "CASA",
+      "credit_card"
+    ],
+    "balance_range": "400M-600M VNĐ",
+    "risk_profile": "balanced",
+    "preferred_channel": "email",
+    "relationship_manager_id": "RM001",
+    "priority_tags": [
+      "campaign_eligible",
+      "wealth_upgrade_interest"
+    ],
+    "campaign_candidate_ids": [
+      "CAM003"
+    ],
+    "notes": "Demo customer only. Has shown interest in structured financial planning and premium relationship benefits."
+  }
+]
