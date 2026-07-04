@@ -11,7 +11,7 @@ router = APIRouter(prefix="/api", tags=["health"])
 def health_check():
     start_ms = now_ms()
     data = {
-        "status": "ok",
+        "status": "healthy",
         "service": "rmflow-agent-backend",
     }
     return success_response(data=data, sources=[], start_ms=start_ms)
